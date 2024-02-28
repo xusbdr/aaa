@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">WikiWorld</string>
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="username_label">Benutzername</string>
+    <string name="email_label">E-Mail</string>
+    <string name="delete_button_label">Löschen</string>
+    <string name="add_comment_label">Kommentar hinzufügen</string>
+    <string name="add_comment">Hier sind wir</string>
+
+
+
+
+
+
+
+</resources>
